@@ -1,4 +1,4 @@
-# Alurapic
+# Alurapic - Angular parte 1: Fundamentos - Alura
 Projeto desenvolvido em [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
 ## Development server
