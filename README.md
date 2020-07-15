@@ -1,4 +1,4 @@
-# Curso de Angular da Alura
+# Curso de Angular da Alura 
 # Alurapic - Angular parte 1: Fundamentos
 Projeto desenvolvido em [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
 
