@@ -9,6 +9,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## API
 Descompactar arquivo api.zip
 
-npm install sqlite3
-npm install      
-npm start
+<p>npm install sqlite3</p>
+<p>npm install</p>
+<p>npm start</p>
