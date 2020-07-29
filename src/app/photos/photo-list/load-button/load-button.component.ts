@@ -11,7 +11,7 @@ export class LoadButtonComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit(): void {
+  ngOnInit() {
   }
 
 }
